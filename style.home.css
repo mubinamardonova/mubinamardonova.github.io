@@ -1,9 +1,10 @@
 body {
 	background-image: url("back1.jpg");
 	background-repeat: no-repeat;
-	background-position: top center;
-background-size: cover;
-	
+	background-size: cover fixed;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
 }
 h1{
 	font-family: Arial;
