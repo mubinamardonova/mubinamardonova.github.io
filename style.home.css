@@ -1,0 +1,43 @@
+body {
+	background-image: url("back1.jpg");
+	background-repeat: no-repeat;
+	background-position: top center;
+background-size: cover;
+	
+}
+h1{
+	font-family: Arial;
+	color: purple;
+	text-align: center;
+}
+p{
+	font-size: 27px;
+	text-align: center;
+	margin: 5px 0px 15px 0px;
+}
+.picture{
+	margin: 5px;
+	}
+.info{
+	font-size: 40px;
+	text-align: center;
+	margin: 5px;
+}
+.hobby{
+	margin: 5px;
+	font-size: 25px;
+	text-align: center;
+}
+.mail{
+	margin: 5px 0px 15px 0px;
+	font-size: 30px;
+	text-align: center;
+}
+.hobby1{
+	font-size: 20px;
+	margin-left: 43%;
+}
+
+img{
+	margin: 5px;
+}

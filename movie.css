@@ -1,0 +1,39 @@
+body
+{
+	background-image: url("wallpaper.jpg");
+	background:url("wallpaper.jpg") fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+    
+
+}
+.p{
+	font-size: 27px;
+	text-align: center;
+	margin: 5px 0px 15px 0px;
+}
+h1,h2{
+	text-align: center;
+		background-color: #57aaefa1;
+		border-radius: 50px;
+		color: #da009fbd;
+}
+.text p{
+	margin-top: 0px;
+}
+.text{
+	font-size: 22px;
+}
+.info {
+background-color: #acdfe6a6;
+padding: 10px;
+}
+.img{
+	
+	float: left;
+	padding-right: 10px;
+}
+img{
+	height:500px;
+	width:350px;
+}
